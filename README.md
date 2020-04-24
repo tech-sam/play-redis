@@ -1,0 +1,2 @@
+# play-redis
+sbt run
