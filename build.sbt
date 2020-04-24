@@ -19,5 +19,4 @@ libraryDependencies ++= Seq(
 )
 
 libraryDependencies += guice
-resolvers += "Greytip Proxy Repository" at "https://nexus.greytip.com/repository/maven-public/"
 
